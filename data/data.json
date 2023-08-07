@@ -1,19 +1,23 @@
 {
-  "users": [
+  "primary": [
     {
-      "id": "eric",
-      "list": [
-        "one",
-        "two",
-        "three"
+      "id": 1,
+      "content": "do this",
+      "priority": 3,
+      "owners": [
+        "eric"
       ]
     },
     {
-      "id": "sarah",
-      "list": [
-        "four",
-        "five",
-        "six"
+      "id": 0,
+      "content": "blow up japan",
+      "priority": 3,
+      "owners": [
+        "eric",
+        "evan",
+        "shrodinger",
+        "oppenheimer",
+        "heimerdinger"
       ]
     }
   ]
